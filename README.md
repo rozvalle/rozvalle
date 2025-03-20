@@ -78,11 +78,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&layout=compact&theme=radical" alt="Most Used Languages"/>
-  </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/>
+    <img width="60%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&layout=compact&theme=radical" alt="Most Used Languages"/>
   </a>
 </p>
 
