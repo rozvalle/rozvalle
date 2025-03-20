@@ -62,9 +62,37 @@
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Still Understanding</h2>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,express,react,nodejs,mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
+ <h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html" />
+</p>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,react,nodejs" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3 align="center">IDEs & Editors</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" />
+</p>
+
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+<h3 align="center">Version Control</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 </p>
 
 ---
