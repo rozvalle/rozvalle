@@ -4,8 +4,7 @@
 <p align="center">
   🌱 Currently learning <strong>MERN, .NET, and Android Development</strong> <br>
   💬 Ask me about <strong>anything :)</strong> <br>
-  📫 Reach me at <strong>elmovaleros11@gmail.com</strong> <br>
-  ⚡ Fun fact: <strong>I enjoy art, playing guitar, and gaming.</strong>
+  ⚡ Fun fact: <strong>I like f1</strong>
 </p>
 
 ---
@@ -86,11 +85,5 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&layout=compact&theme=radical" alt="Most Used Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=rozvalle&theme=radical&no-bg=true" alt="GitHub Trophy"/>
   </a>
 </p>
