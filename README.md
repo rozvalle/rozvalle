@@ -15,7 +15,6 @@
 
 <h2 align="">🌐 Connect with me</h2>
 <p align="center">
-    <h3 align="center">📂 Professional</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="mailto:elmovaleros11@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -30,8 +29,6 @@
     <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<h3 align="center">🎮 Personal</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://steamcommunity.com/">
     <img height="40" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
