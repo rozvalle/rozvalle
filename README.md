@@ -4,7 +4,11 @@
 <p align="center">
   🌱 Currently learning <strong>MERN, .NET, and Android Development</strong> <br>
   💬 Ask me about <strong>anything :)</strong> <br>
-  ⚡ Fun fact: <strong>I like f1</strong>
+  ⚡ Fun fact: <strong>I like F1</strong>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=k0nuxk2dkp9yzrz3vyw498i5e&cover_image=true&theme=novatorem" />
 </p>
 
 
