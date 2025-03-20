@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with me</h2>
+<h2 align="">🌐 Connect with me</h2>
 <p align="center">
   <p align="center">
   <span style="display: inline-block;">
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">🛠️ Still Understanding</h2>
+<h2 align="">🛠️ Still Understanding</h2>
 <p align="center">
  <h3 align="center">Languages</h3>
 <p align="center">
@@ -97,7 +97,7 @@
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="">📊 Stats</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical" alt="GitHub Stats"/>
