@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=CCCCCC&multiline=true&width=435&lines=Hey+there+I'm+Elmo" alt="Typing SVG" />
+  <h3 align="center">Hi, I'm Rozvalle</h3>
 </p>
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
 
