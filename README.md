@@ -10,49 +10,48 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h2 align="center">🌐 Connect with me</h2>
 <p align="center">
   <p align="center">
-  <a href="mailto:elmovaleros11@gmail.com">
+<a href="mailto:elmovaleros11@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.codecademy.com/profiles/rozvalle">
+  <a href="https://www.codecademy.com/profiles/rozvalle" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/>
   </a>
-  <a href="https://steamcommunity.com/">
+  <a href="https://steamcommunity.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://tryhackme.com/p/hedfevaleros">
+  <a href="https://tryhackme.com/p/hedfevaleros" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
-  <a href="https://github.com/rozvalle">
+  <a href="https://github.com/rozvalle" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://reddit.com/">
+  <a href="https://reddit.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://open.spotify.com/user/k0nuxk2dkp9yzrz3vyw498i5e">
+  <a href="https://open.spotify.com/user/k0nuxk2dkp9yzrz3vyw498i5e" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </p>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=android,dotnet,express,react,nodejs,java,javascript,mysql,kotlin,cs" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
