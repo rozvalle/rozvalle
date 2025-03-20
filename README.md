@@ -19,36 +19,7 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-    <a href="https://developer.android.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="50" height="50"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="50" height="50"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="50" height="50"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=android,dotnet,express,react,nodejs,java,javascript,mysql,kotlin,cs" />
 </p>
 
 ---
