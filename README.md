@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+<p align="center">
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
 </p>
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
@@ -7,10 +11,6 @@
   🌱 Currently learning <strong>MERN, .NET, and Android Development</strong> <br>
   💬 Ask me about <strong>anything :)</strong> <br>
   ⚡ Fun fact: <strong>I like F1</strong>
-</p>
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 <h2 align="">🌐 Connect with me</h2>
