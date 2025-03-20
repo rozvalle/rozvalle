@@ -64,7 +64,7 @@
 
 <h2 align="">🛠️ Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,vb,dotnet,kotlin,python,js,html,express,react,nodejs,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,express,react,nodejs,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,linux,git,github" />
 </p>
 
