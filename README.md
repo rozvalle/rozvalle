@@ -64,7 +64,23 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=android,dotnet,express,react,nodejs,java,javascript,mysql,kotlin,cs" />
+     <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,vb,kotlin,python,js,html" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=express,react,nodejs,dotnet" />
+  
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  
+  <!-- IDEs & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" />
+  
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=android,windows,linux" />
+  
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
