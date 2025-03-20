@@ -72,12 +72,8 @@
 
 <h2 align="center">📊 Stats</h2>
 <p align="center">
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
 </p>
 
@@ -85,8 +81,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&layout=compact&theme=radical" alt="Most Used Languages"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="48%" src="https://github-profile-trophy.vercel.app/?username=rozvalle&theme=radical&no-bg=true" alt="GitHub Trophy"/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img width="48%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=rozvalle&theme=radical&no-bg=true" alt="GitHub Trophy"/>
+  </a>
 </p>
