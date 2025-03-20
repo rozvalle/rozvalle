@@ -7,7 +7,7 @@
   ⚡ Fun fact: <strong>I like f1</strong>
 </p>
 
----
+
 
 <h2 align="">🌐 Connect with me</h2>
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 </p>
 
----
+
 
 <h2 align="">🛠️ Still Understanding</h2>
 <p align="center">
@@ -95,7 +95,7 @@
 </p>
 </p>
 
----
+
 
 <h2 align="">📊 Stats</h2>
 <p align="center">
