@@ -1,10 +1,6 @@
 <h1 align="center">Hey there, I'm Elmo</h1>
 <h3 align="center">An IT student passionate about coding. I’m always exploring new technologies and learning everything I come across</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Profile%20views&color=0e75b6&style=flat" alt="rozvalle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rozvalle" alt="rozvalle" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, .NET, and Android Development**
 
 - 💬 Ask me about **anything :)**
