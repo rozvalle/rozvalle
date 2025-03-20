@@ -62,16 +62,16 @@
 
 
 
-<h2 align="">🛠️ Still Understanding</h2>
+<h2 align="">🛠️ Learning</h2>
 <p align="center">
  <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html" />
+  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,python,js,html" />
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=express,react,nodejs,dotnet" />
 </p>
 
 <h3 align="center">Database</h3>
