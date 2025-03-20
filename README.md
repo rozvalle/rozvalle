@@ -9,7 +9,7 @@
   ⚡ Fun fact: <strong>I like F1</strong>
 </p>
 
-<h2 align="">🌐 Connect with me</h2>
+<h2 align="">🌐 Find Me Online</h2>
 <p align="center">
   <a href="mailto:elmovaleros11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
   <a href="https://www.codecademy.com/profiles/rozvalle"><img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/></a> 
@@ -25,15 +25,15 @@
 
 
 
-<h2 align="">🛠️ Learning</h2>
+<h2 align="">📚 What I'm Learning/Using</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,express,react,nodejs,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
 </p>
 
 
 
-<h2 align="">📊 Stats</h2>
+<h2 align="">📊 My Coding Journey</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical" alt="GitHub Stats"/>
