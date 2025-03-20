@@ -10,34 +10,9 @@
 </p>
 
 <h2 align="">🌐 Connect with me</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
-  <a href="mailto:elmovaleros11@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.codecademy.com/profiles/rozvalle">
-    <img height="30" src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/>
-  </a>
-  <a href="https://tryhackme.com/p/hedfevaleros">
-    <img height="30" src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
-  <a href="https://github.com/rozvalle">
-    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://steamcommunity.com/">
-    <img height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-  <a href="https://discord.com/">
-    <img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://reddit.com/">
-    <img height="30" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://open.spotify.com/user/k0nuxk2dkp9yzrz3vyw498i5e">
-    <img height="30" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-  <a href="https://www.youtube.com/">
-    <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+<p align="center">
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/k0nuxk2dkp9yzrz3vyw498i5e)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmovaleros11@gmail.com)  [![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/rozvalle)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hedfevaleros)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rozvalle)
 </p>
 
 
