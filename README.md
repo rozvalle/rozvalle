@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi, I'm Rozvalle</h1>
+  <h1 align="center">Hi, I'm Rozvalle  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1> 
 </p>
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
 
