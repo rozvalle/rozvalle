@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Elmo;IT+Student+%7C+Aspiring+Developer;Learning+MERN+%26+.NET+%7C+Cybersecurity+Enthusiast" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=CCCCCC&multiline=true&width=435&lines=Hey+there+I'm+Elmo" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
 
