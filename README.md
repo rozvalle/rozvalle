@@ -70,7 +70,9 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&layout=compact&theme=radical" alt="Most Used Languages"/>
+  </a>
 </p>
