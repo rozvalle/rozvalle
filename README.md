@@ -4,7 +4,7 @@
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
 
 <p align="center">
-  🌱 Currently learning <strong>MERN, .NET, and Android</strong> <br>
+  🌱 Currently learning <strong>MERN, .NET, and Android SDK</strong> <br>
   💬 Ask me about <strong>anything :)</strong> <br>
   ⚡ Fun fact: <strong>I like F1</strong>
 </p>
