@@ -74,9 +74,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img width="40%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/>
   </a>
