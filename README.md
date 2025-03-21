@@ -22,16 +22,11 @@
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
 </p>
 
-
-
-
 <h2 align="">📚 What I'm Learning/Using</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=materialui,vite,mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
 </p>
-
-
 
 <h2 align="">📊 My Coding Journey</h2>
 <p align="center">
