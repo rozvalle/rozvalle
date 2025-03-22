@@ -25,7 +25,7 @@
 <h2 align="">📚 What I'm Learning/Using</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react" />
-  <img src="https://skillicons.dev/icons?i=nodejs,materialui,vite,mysql,vscode,visualstudio,androidstudio,windows,linux,git,github />
+  <img src="https://skillicons.dev/icons?i=nodejs,materialui,vite,mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
 </p>
 
 <h2 align="">📊 My Coding Journey</h2>
