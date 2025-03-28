@@ -1,12 +1,18 @@
-<p align="center">
-  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
-</p>
+<img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%"></a>
+
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
 
 <p align="center">
+  🛠️ Working on <strong>myself</strong> <br>
   🌱 Currently learning <strong>MERN, .NET, and Android SDK</strong> <br>
-  💬 Ask me about <strong>anything :)</strong> <br>
+  💬 Ask me about <strong>anything</strong> :DD <br>
+  🤝 Open to <strong>collaborations & new opportunities</strong> <br>
   ⚡ Fun fact: <strong>I like F1</strong>
+  <details align="center">
+    <summary>Want to know more?</summary>
+    This is the hidden content inside the dropdown.
+  </details>
 </p>
 
 <h2 align="">🌐 Find Me Online</h2>
@@ -23,9 +29,13 @@
 </p>
 
 <h2 align="">📚 What I'm Learning/Using</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs,materialui,vite,mysql" />
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,windows,linux,git,github,postman,bash" />
+<h3>Tech Stacks</h3>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs,materialui,vite,mysql,bash" />
+</p>
+<h3>Tools & Platforms</h3>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,windows,linux,github,git,postman" />
 </p>
 
 <h2 align="">📊 My Coding Journey</h2>
