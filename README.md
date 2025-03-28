@@ -1,11 +1,11 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Profile+Views&color=red&style=for-the-badge"/>
+<img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Visitors&color=red&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/rozvalle?color=blue&label=Followers&logo=github&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/rozvalle?color=yellow&label=Stars&logo=github&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/badges-awesome-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-awesome-red?style=for-the-badge"/>
 </p>
-
-<img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%"></a>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
 <h3 align="center">An IT student passionate about coding and always exploring new technologies.</h3>
@@ -16,9 +16,10 @@
   💬 Ask me about <strong>anything</strong> :DD <br>
   🤝 Open to <strong>collaborations & new opportunities</strong> <br>
   ⚡ Fun fact: <strong>I like F1</strong>
+  
   <details align="center">
     <summary>Want to know more?</summary>
-    This is the hidden content inside the dropdown.
+    Currently writing everything ;)))
   </details>
 </p>
 
