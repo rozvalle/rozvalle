@@ -57,11 +57,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=radical&hide_progress=true" alt="Most Used Languages"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+--- 
 
-<img src="https://cdn.discordapp.com/attachments/780408720059924490/1355228484590370846/image_2.png?ex=67e82a61&is=67e6d8e1&hm=e043062756a13512e31e8719c2a474cfb62a615e7ad21f8f03ea9663588e6108&" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/780408720059924490/1355230880796381355/image_3.png?ex=67e82c9c&is=67e6db1c&hm=71086837c1e8aee39f6f58b7d258be573392d73e7328bd2e12329caf6443693a&" width="100%" />
 
 <p align="center">
   💡 "Strive for progress, not perfection." | Built with ❤️ by <a href="https://github.com/rozvalle">rozvalle</a>
