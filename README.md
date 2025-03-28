@@ -50,9 +50,19 @@
 <h2 align="">📊 My Coding Journey</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="38%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="40%" src="https://streak-stats.demolab.com?user=rozvalle&theme=radical" alt="GitHub Streak"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="40%" src="[https://github-readme-streak-stats-eight.vercel.app/rozvalle&theme=radical](https://github-readme-streak-stats-eight.vercel.app/?user=rozvalle&theme=radical)" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=radical&hide_progress=true" alt="Most Used Languages"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+<img src="https://cdn.discordapp.com/attachments/780408720059924490/1355228484590370846/image_2.png?ex=67e82a61&is=67e6d8e1&hm=e043062756a13512e31e8719c2a474cfb62a615e7ad21f8f03ea9663588e6108&" width="100%" />
+
+<p align="center">
+  💡 "Strive for progress, not perfection." | Built with ❤️ by <a href="https://github.com/rozvalle">rozvalle</a>
 </p>
