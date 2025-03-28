@@ -1,5 +1,8 @@
-<p align="right">
-  <img src="http://views.whatilearened.today/views/github/rozvalle/views.svg"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Profile+Views&color=red&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rozvalle?color=blue&label=Followers&logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/rozvalle?color=yellow&label=Stars&logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/badges-awesome-green?style=for-the-badge"/>
 </p>
 
 <img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%"></a>
