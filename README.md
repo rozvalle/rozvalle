@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="http://views.whatilearened.today/views/github/rozvalle/views.svg"/>
+</p>
+
 <img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%"></a>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
