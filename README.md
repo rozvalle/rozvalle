@@ -50,7 +50,7 @@
 <h2 align="">📊 My Coding Journey</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="38%" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="40%" src="[https://github-readme-streak-stats-eight.vercel.app/rozvalle&theme=radical](https://github-readme-streak-stats-eight.vercel.app/?user=rozvalle&theme=radical)" alt="GitHub Streak"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="40%" src="[https://github-readme-streak-stats.vercel.app/?user=rozvalle&theme=radical" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
@@ -59,7 +59,9 @@
 
 --- 
 
-<img src="https://cdn.discordapp.com/attachments/780408720059924490/1355230880796381355/image_3.png?ex=67e82c9c&is=67e6db1c&hm=71086837c1e8aee39f6f58b7d258be573392d73e7328bd2e12329caf6443693a&" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/780408720059924490/1355245735607533568/Untitled445_20250329021651.png?ex=67e83a72&is=67e6e8f2&hm=6670793519eca81a81f98929725ac3ee722145844646832b8f88b308e9031853&" width="100%" />
+
+<!-- https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer -->
 
 <p align="center">
   💡 "Strive for progress, not perfection." | Built with ❤️ by <a href="https://github.com/rozvalle">rozvalle</a>
