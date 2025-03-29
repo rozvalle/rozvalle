@@ -20,7 +20,7 @@
   <details align="center">
     <summary>Want to know more?</summary> <br>
       <img src="https://img.shields.io/badge/Artist-Laufey-8A2BE2?style=for-the-badge&logo=spotify" alt="Favorite Artist - Laufey">
-      <img src="https://img.shields.io/badge/F1%20Driver-Verstappen-FF0000?style=for-the-badge&logo=f1" alt="Favorite F1 Driver - Max Verstappen">
+      <img src="https://img.shields.io/badge/Driver-Verstappen-FF0000?style=for-the-badge&logo=f1" alt="Favorite F1 Driver - Max Verstappen">
   </details>
 </p>
 
