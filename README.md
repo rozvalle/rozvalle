@@ -62,6 +62,7 @@
 <img src="https://cdn.discordapp.com/attachments/780408720059924490/1355245735607533568/Untitled445_20250329021651.png?ex=67e83a72&is=67e6e8f2&hm=6670793519eca81a81f98929725ac3ee722145844646832b8f88b308e9031853&" width="100%" />
 
 <!-- https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer -->
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> -->
 
 <p align="center">
   💡 "Strive for progress, not perfection." | Built with ❤️ by <a href="https://github.com/rozvalle">rozvalle</a>
