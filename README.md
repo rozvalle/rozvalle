@@ -18,7 +18,7 @@
   ⚡ Fun fact: <strong>I like F1</strong>
   
   <details align="center">
-    <summary>Expand to see more</summary> <br>
+    <summary><strong>Expand to see more</strong></summary> <br>
       <img src="https://img.shields.io/badge/Artist-Laufey-8A2BE2?style=for-the-badge&logo=spotify" alt="Favorite Artist - Laufey">
       <img src="https://img.shields.io/badge/Driver-Verstappen-FF0000?style=for-the-badge&logo=f1" alt="Favorite F1 Driver - Max Verstappen">
   </details>
