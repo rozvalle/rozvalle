@@ -40,7 +40,7 @@
 <h2 align="">📚 What I'm Learning/Using</h2>
 <h3>Tech Stacks</h3>
 <p align="">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs,materialui,vite,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs,materialui,vite,mysql,bash,flutter,firebase,mongodb" />
 </p>
 <h3>Tools & Platforms</h3>
 <p align="">
