@@ -44,7 +44,7 @@
 </p>
 <h3>Tools & Platforms</h3>
 <p align="">
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,windows,linux,github,git,postman" />
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,windows,linux,ubuntu,github,git,postman,rabbitmq" />
 </p>
 
 <h2 align="">📊 My Coding Journey</h2>
