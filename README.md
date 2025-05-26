@@ -1,4 +1,4 @@
-<img src='https://media.discordapp.net/attachments/780408720059924490/1355193965493620887/image.png?ex=67e80a3b&is=67e6b8bb&hm=62e11062f66cb4c1dcc2dd512655ca68b1d9a8c584acd51ae76b5cb86d226a31&=&format=webp&quality=lossless&width=1860&height=741' width="100%">
+<img src='https://github.com/rozvalle/my-images/blob/main/image.png?raw=true' width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Visitors&color=red&style=for-the-badge"/>
