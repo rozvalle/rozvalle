@@ -39,13 +39,39 @@
 </p>
 
 <h2 align="">📚 What I'm Learning/Using</h2>
-<h3>Tech Stacks</h3>
-<p align="">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs,materialui,vite,mysql,bash,flutter,firebase,mongodb" />
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,python,js,bash,html,css" />
 </p>
-<h3>Tools & Platforms</h3>
-<p align="">
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,windows,linux,ubuntu,github,git,postman,rabbitmq" />
+
+<h3 align="center">Frontend Frameworks / Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,materialui,vite,flutter" />
+</p>
+
+<h3 align="center">Backend Frameworks / Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+<h3 align="center">Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,androidstudio,vercel" />
+</p>
+
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
+
+<h3 align="center">DevOps & Collaboration</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,rabbitmq" />
 </p>
 
 <h2 align="">📊 My Coding Journey</h2>
