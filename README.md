@@ -41,37 +41,35 @@
 <h2 align="">📚 What I'm Learning/Using</h2>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,python,js,bash,html,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,kotlin,python,bash,js,html,css,visualbasic" />
 </p>
 
 <h3 align="center">Frontend Frameworks / Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,materialui,vite,flutter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,materialui,vite,antdesign,axios,chartjs,leaflet" />
 </p>
 
 <h3 align="center">Backend Frameworks / Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,express,laravel,swagger" />
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" />
 </p>
 
-<h3 align="center">Tools & IDEs</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,androidstudio,vercel" />
-</p>
+<h3 align="center">AI / Data Science</h3>
+<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,ollama" /> </p>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,arch,fedora" />
 </p>
 
-<h3 align="center">DevOps & Collaboration</h3>
+<h3 align="center">Tools & Dev Ops</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,rabbitmq" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse,visualstudio,vscode,renpy,androidstudio,vercel,tmux,git,github,postman,rabbitmq" />
 </p>
 
 <h2 align="">📊 My Coding Journey</h2>
