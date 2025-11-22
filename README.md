@@ -12,8 +12,8 @@
 
 <p align="center">
   🛠️ Working on <strong>myself</strong> <br>
-  🌱 Currently learning <strong>Auth0 and Firebase</strong> <br>
-  📈 Sharpening my skills in <strong>MERN, Android SDK, and AntD</strong> <br>
+  🌱 Currently learning <strong>Python, NumPy, and Pandas</strong> <br>
+  📈 Sharpening my skills in <strong>Linux, Bash, and terminal workflows.</strong> <br>
   💬 Ask me about <strong>anything</strong> :DD <br>
   🤝 Open to <strong>collaborations & new opportunities</strong> <br>
   ⚡ Fun fact: <strong>I like F1</strong>
