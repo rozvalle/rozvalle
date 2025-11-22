@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=radical&hide_progress=true" alt="Most Used Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=radical&layout=compact" alt="Most Used Languages"/></a>
 </p>
 
 --- 
