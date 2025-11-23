@@ -38,39 +38,53 @@
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
 </p>
 
-<h2 align="">📚 What I'm Learning/Using</h2>
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,kotlin,python,bash,js,html,css,visualbasic" />
-</p>
+<h2 align="center">📚 What I'm Learning / Using</h2>
 
-<h3 align="center">Frontend Frameworks / Libraries</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,materialui,vite,antdesign,axios,chartjs,leaflet" />
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <!-- ROW 1: TOOLS -->
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none; padding: 16px 0;">
+      <h3>🛠 Tools & DevOps</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse,visualstudio,vscode,renpy,androidstudio,vercel,tmux,git,github,postman,rabbitmq" />
+    </td>
+  </tr>
 
-<h3 align="center">Backend Frameworks / Platforms</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,express,laravel,swagger" />
-</p>
+  <!-- ROW 2: LANGUAGES / OS -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>Programming Languages</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,kotlin,python,bash,js,html,css,visualbasic" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>Operating Systems</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,arch,fedora" />
+    </td>
+  </tr>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" />
-</p>
+  <!-- ROW 3: FRONTEND / BACKEND -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>Frontend</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,materialui,vite,antdesign,axios,chartjs,leaflet" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>Backend</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,express,laravel,swagger" />
+    </td>
+  </tr>
 
-<h3 align="center">AI / Data Science</h3>
-<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,ollama" /> </p>
-
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,arch,fedora" />
-</p>
-
-<h3 align="center">Tools & Dev Ops</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse,visualstudio,vscode,renpy,androidstudio,vercel,tmux,git,github,postman,rabbitmq" />
-</p>
+  <!-- ROW 4: DATABASES / AI -->
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>Databases</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 16px 0;">
+      <h3>AI / Data Science</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,ollama" />
+    </td>
+  </tr>
+</table>
 
 <h2 align="">📊 My Coding Journey</h2>
 <p align="center">
