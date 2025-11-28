@@ -88,12 +88,12 @@
 
 <h2 align="">📊 My Coding Journey</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="390" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=rozvalle&theme=radical" alt="GitHub Streak"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="390" src="https://github-readme-stats.vercel.app/api?username=rozvalle&show_icons=true&theme=dark&rank_icon=github&hide_border=true" alt="GitHub Stats"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=rozvalle&theme=dark&hide_border=true" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=radical&layout=compact" alt="Most Used Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozvalle&langs_count=8&theme=dark&layout=compact&hide_border=true" alt="Most Used Languages"/></a>
 </p>
 
 --- 
