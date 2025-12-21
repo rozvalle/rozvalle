@@ -4,7 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=rozvalle&label=Visitors&color=red&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/rozvalle?color=blue&label=Followers&logo=github&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/rozvalle?color=yellow&label=Stars&logo=github&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-awesome-red?style=for-the-badge"/>
+  <a href="https://rozvalle.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge"/>
+  </a>
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!, I'm Rozvalle</h1> 
